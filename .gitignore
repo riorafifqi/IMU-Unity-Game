@@ -61,3 +61,4 @@ crashlytics-build.properties
 # Arduino
 *.exe
 *.bat
+MPU-9250/Temp/UnityLockfile
